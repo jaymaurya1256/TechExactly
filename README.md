@@ -68,3 +68,7 @@ Feel free to contribute or open issues for any enhancements!
 
 
 Make sure to replace placeholders like `yourusername` and `your-repo-name` with your actual GitHub user
+
+## Screenshot
+![screenshoot](https://github.com/user-attachments/assets/895d2f76-0db0-4de5-8a8c-3cee4866cefa)
+
